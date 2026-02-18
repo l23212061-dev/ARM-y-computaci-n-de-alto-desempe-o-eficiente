@@ -118,16 +118,16 @@ flowchart TD
 
 ---
 
-Conclusión Personal
+Conclusión Personal: 
 Al iniciar esta investigación, pensaba que ARM solo servía para ahorrar batería en mi celular. Me sorprendió descubrir que la misma filosofía de "hacer más con menos energía" es exactamente lo que necesitan las supercomputadoras hoy en día.
 
 El límite de la computación ya no es cuánto silicio podemos poner en un chip, sino cuánto calor podemos disipar sin derretirlo. En este escenario, la arquitectura ARM y la computación eficiente no son solo una alternativa barata, sino el camino necesario para sostener el crecimiento de la Inteligencia Artificial y la nube de manera sostenible.
 
- Referencias Bibliográficas
-Fujitsu. (2024). Supercomputer Fugaku. Link
+ Referencias Bibliográficas: 
+Fujitsu. (2024). Supercomputer Fugaku.
 
-Amazon Web Services. (2025). AWS Graviton Processor - Arm-based cloud compute. Link
+Amazon Web Services. (2025). AWS Graviton Processor - Arm-based cloud compute. 
 
-NVIDIA Corporation. (2024). NVIDIA Grace CPU Superchip Architecture Whitepaper. Link
+NVIDIA Corporation. (2024). NVIDIA Grace CPU Superchip Architecture Whitepaper.
 
-Arm Ltd. (2025). Neoverse: Cloud-to-Edge Infrastructure. Link
+Arm Ltd. (2025). Neoverse: Cloud-to-Edge Infrastructure.
