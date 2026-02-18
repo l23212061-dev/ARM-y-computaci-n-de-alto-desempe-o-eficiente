@@ -79,7 +79,6 @@ He recopilado los ejemplos más importantes que demuestran que ARM ya no es "sol
 ##  Estructura de un Nodo de Cómputo ARM
 
 
-
 ```mermaid
 flowchart TD
     subgraph Nodo_HPC_ARM ["Nodo de Cómputo de Alto Desempeño (Ej. Grace Hopper)"]
