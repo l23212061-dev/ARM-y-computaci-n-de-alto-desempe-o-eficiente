@@ -114,7 +114,11 @@ flowchart TD
     Nodo_HPC_ARM ==> IA
     Nodo_HPC_ARM ==> Sim
     Nodo_HPC_ARM ==> Web
- Conclusión Personal
+```
+
+---
+
+Conclusión Personal
 Al iniciar esta investigación, pensaba que ARM solo servía para ahorrar batería en mi celular. Me sorprendió descubrir que la misma filosofía de "hacer más con menos energía" es exactamente lo que necesitan las supercomputadoras hoy en día.
 
 El límite de la computación ya no es cuánto silicio podemos poner en un chip, sino cuánto calor podemos disipar sin derretirlo. En este escenario, la arquitectura ARM y la computación eficiente no son solo una alternativa barata, sino el camino necesario para sostener el crecimiento de la Inteligencia Artificial y la nube de manera sostenible.
