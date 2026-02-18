@@ -86,18 +86,18 @@ flowchart TD
         direction TB
         
         subgraph Procesamiento
-            CPU[CPU ARM Neoverse - 72+ Núcleos]
-            SVE[Unidades SVE - Matemáticas Vectoriales]
+            CPU["CPU ARM Neoverse - 72+ Núcleos"]
+            SVE["Unidades SVE - Matemáticas Vectoriales"]
         end
         
         subgraph Memoria_Alta_Velocidad
-            HBM3[Memoria HBM3 - Ancho de Banda Masivo]
-            LPDDR5[Memoria LPDDR5X - Bajo Consumo]
+            HBM3["Memoria HBM3 - Ancho de Banda Masivo"]
+            LPDDR5["Memoria LPDDR5X - Bajo Consumo"]
         end
         
         subgraph Interconexion
-            NV[Interconexión Rápida (C2C)]
-            PCI[PCIe Gen 5 - Expansión]
+            NV["Interconexión Rápida (C2C)"]
+            PCI["PCIe Gen 5 - Expansión"]
         end
 
         CPU <--> SVE
@@ -115,7 +115,6 @@ flowchart TD
     Nodo_HPC_ARM ==> IA
     Nodo_HPC_ARM ==> Sim
     Nodo_HPC_ARM ==> Web
-
  Conclusión Personal
 Al iniciar esta investigación, pensaba que ARM solo servía para ahorrar batería en mi celular. Me sorprendió descubrir que la misma filosofía de "hacer más con menos energía" es exactamente lo que necesitan las supercomputadoras hoy en día.
 
